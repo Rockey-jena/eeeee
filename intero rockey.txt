@@ -1,0 +1,33 @@
+TQ for giving me opertunity ! my self Rockey jena
+, a software developer with over 3 years of experience. My expertise lies in Java-based technologies, particularly the Spring framework, J2SE, Java 8, Hibernate, MySQL, and building RESTful APIs.
+
+One of my notable projects Kentucky skyWays project ,  it is US-based client, on  project.
+For this project, we adopted a Monolithic architecture approach and the Spring MVC model.
+
+My key contributions to this project included the development of various RESTful API modules such as:
+
+- Search features
+- User Registration
+- Login and Logout
+- Password recovery
+- SMS Service Integration
+- WhatsApp API Integration
+- Vendor Registration
+- Career modules
+
+
+To implement these modules, I utilized technologies like Spring Boot, Hibernate JPA, and a MySQL database. Following a systematic development process,
+
+ here are the steps I followed:
+
+1. Set up a local repository and cloned the project onto my machine.
+2. Added the necessary dependencies using Maven for the required modules.
+3. Employed IntelliJ IDE (and sometimes STS) for development.
+4. Created entity classes with the required fields.
+5. Developed the service, payload, repository, and controller layers. 
+6. Implemented business logic within the service layer's implementation classes.
+7. Utilized the repository layer by creating an interface that extends JpaRepository to handle basic CRUD operations.
+8. Implemented a customized Exception handler class capable of handling any exceptions that arise.
+9. Defined Response Entity handler methods within the controller layer to manage HTTP responses, including status codes, headers, and bodies.
+10. Ensured proper functionality by testing the APIs using Postman. Additionally, there were occasions when I needed to deploy the project in a testing environment for the testers to evaluate. During such deployments, communication occurred through Jira. For deployment, I used Spring profiles to configure the required environment, often deploying it on the AWS QA server.
+11. Once the code was working correctly, I pushed it to the GitHub repository for code review by my teammates.
